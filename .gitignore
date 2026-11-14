@@ -1,0 +1,6 @@
+.env
+.env.*
+.nova/
+node_modules/
+.venv/
+*.log
