@@ -1,64 +1,77 @@
-# 🧠 Latihan Algoritma & Pemecahan Masalah
+# Algorithm & Problem Solving
 
-Repository pribadi yang didedikasikan untuk mempelajari algoritma, struktur data, dan meningkatkan kemampuan pemecahan masalah melalui pemrograman.
+A dedicated repository for exploring algorithms, data structures, and computational thinking through consistent hands-on practice.
 
-Repository ini berisi kumpulan latihan coding, implementasi algoritma, dan tantangan logika menggunakan berbagai bahasa pemrograman.
+This repository serves as a personal archive of coding challenges, algorithm implementations, problem-solving approaches, and programming experiments across multiple languages.
 
-## 🎯 Tujuan
+The goal is not simply to write code that works, but to understand **why it works, how it works, and how it can be improved.**
 
-- Meningkatkan kemampuan berpikir logis dan pemecahan masalah.
-- Memahami dasar-dasar algoritma dan struktur data.
-- Berlatih menulis kode yang bersih dan efisien.
-- Mempelajari berbagai pendekatan untuk menyelesaikan masalah pemrograman.
-- Mengembangkan kemampuan pemrograman melalui latihan yang konsisten.
+## Objectives
 
-## 💻 Bahasa Pemrograman
+- Develop strong logical reasoning and computational thinking.
+- Build a solid foundation in algorithms and data structures.
+- Improve problem-solving skills through structured coding challenges.
+- Write clean, readable, and maintainable code.
+- Analyze algorithm efficiency and understand time and space complexity.
+- Explore different approaches to solving the same problem.
 
-| Bahasa | Status |
+## Programming Languages
+
+| Language | Status |
 |---|---|
-| JavaScript | Sedang Dipelajari |
-| TypeScript | Sedang Dipelajari |
-| C++ | Sedang Dipelajari |
-| Rust | Sedang Dipelajari |
-| Python | Sedang Dipelajari |
+| JavaScript | In Progress |
+| TypeScript | In Progress |
+| C++ | In Progress |
+| Rust | In Progress |
+| Python | In Progress |
 
-## 📚 Materi yang Dipelajari
+## Learning Roadmap
 
-### Dasar-Dasar Pemrograman
-- Variabel & Tipe Data
-- Percabangan
-- Perulangan
-- Fungsi
-- Rekursi
+### Programming Fundamentals
+- Variables & Data Types
+- Operators & Expressions
+- Conditional Statements
+- Loops & Iteration
+- Functions
+- Recursion
 
-### Algoritma
-- Algoritma Pencarian
-- Algoritma Pengurutan
-- Permasalahan Angka
-- Manipulasi String
-- Permasalahan Matematika
+### Algorithms
+- Searching Algorithms
+- Sorting Algorithms
+- Number Theory & Numeric Problems
+- String Manipulation
+- Mathematical Algorithms
 - Dynamic Programming
+- Greedy Algorithms
 
-### Struktur Data
-- Array
-- String
-- Linked List
-- Stack & Queue
-- Hash Map
-- Tree
-- Graph
-- Heap
+### Data Structures
+- Arrays & Strings
+- Hash Maps & Hash Sets
+- Linked Lists
+- Stacks & Queues
+- Trees & Binary Search Trees
+- Graphs
+- Heaps & Priority Queues
 
-## 📂 Struktur Repository
+### Complexity Analysis
+- Big O Notation
+- Time Complexity
+- Space Complexity
+- Algorithm Optimization
+
+## Repository Structure
 
 ```text
 algorithm-practice/
 │
 ├── JavaScript/
 │   ├── Basic-Logic/
+│   ├── Loops/
+│   ├── Arrays/
+│   ├── Strings/
 │   ├── Searching/
-│   └── Sorting/
-    
+│   ├── Sorting/
+│   └── Data-Structures/
 │
 ├── TypeScript/
 │   ├── Basic-Logic/
@@ -83,18 +96,18 @@ algorithm-practice/
 └── README.md
 ```
 
+## Learning Progress
 
+This repository evolves alongside my programming journey. Each solution represents an opportunity to understand a concept, refine an approach, and strengthen my problem-solving skills.
 
+Problems are approached progressively, starting with fundamental programming concepts and advancing toward more complex algorithmic challenges.
 
+## Philosophy
 
+> Don't just memorize solutions. Understand the logic behind them.
 
-
-##  Perjalanan Belajar
-
-Repository ini merupakan dokumentasi perjalanan saya dalam mempelajari pemrograman, algoritma, struktur data, dan pemecahan masalah menggunakan berbagai bahasa pemrograman.
-
-**Satu masalah setiap waktu. Satu langkah lebih dekat untuk menjadi developer yang lebih baik.**
+> One problem at a time. One concept at a time. Continuous improvement.
 
 ---
 
-⭐ Silakan jelajahi perkembangan latihan saya!
+**Built through consistency, curiosity, and a commitment to understanding Computer Science.**
